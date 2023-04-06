@@ -30,6 +30,16 @@ Take it easy. It all stored in charming, just hit the `return key` and here wait
 
 
 
+# Import locally
+
+The extension store is slow to approve a public extension, so you can use `Import Extension` command just install a local extension.For this situation, you can import the `output` folder.
+
+![import_local](pic/import_local.png)
+
+![import_local](pic/output_folder.png)
+
+
+
 # Bonus
 
 ## !NO NEED FOR API KEY!
