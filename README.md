@@ -31,8 +31,9 @@ Take it easy. It all stored in charming, just hit the `return key` and here wait
 
 
 # Import locally
+1. `git clone https://github.com/KittenYang/charming-chatgpt.git`
 
-The extension store is slow to approve a public extension, so you can use `Import Extension` command just install a local extension.For this situation, you can import the `output` folder.
+2. The extension store is slow to approve a public extension, so you can use `Import Extension` command just install a local extension.For this situation, you can import the `output` folder.
 
 ![import_local](pic/import_local.png)
 
